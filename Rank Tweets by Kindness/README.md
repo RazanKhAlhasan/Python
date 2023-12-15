@@ -33,8 +33,8 @@ sample output:
 ## Contact Information 📩
 For any questions, suggestions, or inquiries related to the Employee Performance Mapping Project, please reach out to:
 
-Razan Alhasan
-  - Email: Alhasan.razan1@gmail.com
+- Razan Alhasan
+Email: Alhasan.razan1@gmail.com
 - Dina Bokhamseen
 
 
