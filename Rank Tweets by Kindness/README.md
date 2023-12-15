@@ -30,6 +30,10 @@ sample output:
     ("what a good day", 1),
 ]
 
+Updates on the projects: ➕
+- Adding textblob library to the code to determine if the tweet is positive, negative, or neutral.
+- Using API to extract the tweet instead of using prepared tweets.
+
 ## Contact Information 📩
 For any questions, suggestions, or inquiries related to the Employee Performance Mapping Project, please reach out to:
 
