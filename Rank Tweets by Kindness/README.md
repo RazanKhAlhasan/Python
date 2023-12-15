@@ -1,4 +1,4 @@
-# Rank Tweets by Kindness 
+# Rank Tweets by Kindness 😊
 Sentiment analysis on tweets
 
 
