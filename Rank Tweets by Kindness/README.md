@@ -1,6 +1,6 @@
 # Rank Tweets by Kindness 
 Sentiment analysis on tweets
-## Identify positive tweets by counting the occurrence of nice words and ranking them in descending order. 
+
 
 ## Table of Contents 📝
 - [Project Description](#project-description)
