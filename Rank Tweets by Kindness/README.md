@@ -35,6 +35,8 @@ For any questions, suggestions, or inquiries related to the Employee Performance
 
 Razan Alhasan
   - Email: Alhasan.razan1@gmail.com
+Dina Bokhamseen
+
 
 We value your feedback and are committed to providing the best possible support and assistance for your project analysis needs.
 
